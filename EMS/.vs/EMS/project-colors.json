@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e65778f-59de-4336-96dd-173a3f75bc2a": {
+      "ProjectGuid": "5e65778f-59de-4336-96dd-173a3f75bc2a",
+      "DisplayName": "DAL",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "03be1ab8-cd03-4c83-ac3c-e5a5ce37820e": {
+      "ProjectGuid": "03be1ab8-cd03-4c83-ac3c-e5a5ce37820e",
+      "DisplayName": "AppUI",
+      "ColorIndex": 1
+    },
+    "d7a80fa5-3881-44f8-a014-6076f6eed4ca": {
+      "ProjectGuid": "d7a80fa5-3881-44f8-a014-6076f6eed4ca",
+      "DisplayName": "BLL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
