@@ -69,8 +69,13 @@ D:\Corporate\Nordic Academy\ASP.Net MVC\Demos\CRUDMvcWithThreeTier-Demo\EMS\AppU
 D:\Corporate\Nordic Academy\ASP.Net MVC\Demos\CRUDMvcWithThreeTier-Demo\EMS\AppUI\bin\System.Web.Helpers.xml
 D:\Corporate\Nordic Academy\ASP.Net MVC\Demos\CRUDMvcWithThreeTier-Demo\EMS\AppUI\bin\System.Web.Mvc.xml
 D:\Corporate\Nordic Academy\ASP.Net MVC\Demos\CRUDMvcWithThreeTier-Demo\EMS\AppUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Corporate\Nordic Academy\ASP.Net MVC\Demos\CRUDMvcWithThreeTier-Demo\EMS\AppUI\obj\Debug\AppUI.csproj.AssemblyReference.cache
 D:\Corporate\Nordic Academy\ASP.Net MVC\Demos\CRUDMvcWithThreeTier-Demo\EMS\AppUI\obj\Debug\AppUI.csproj.CoreCompileInputs.cache
 D:\Corporate\Nordic Academy\ASP.Net MVC\Demos\CRUDMvcWithThreeTier-Demo\EMS\AppUI\obj\Debug\AppUI.csproj.CopyComplete
 D:\Corporate\Nordic Academy\ASP.Net MVC\Demos\CRUDMvcWithThreeTier-Demo\EMS\AppUI\obj\Debug\AppUI.dll
 D:\Corporate\Nordic Academy\ASP.Net MVC\Demos\CRUDMvcWithThreeTier-Demo\EMS\AppUI\obj\Debug\AppUI.pdb
+D:\Corporate\Nordic Academy\ASP.Net MVC\Demos\CRUDMvcWithThreeTier-Demo\EMS\AppUI\bin\BLL.dll
+D:\Corporate\Nordic Academy\ASP.Net MVC\Demos\CRUDMvcWithThreeTier-Demo\EMS\AppUI\bin\DAL.dll
+D:\Corporate\Nordic Academy\ASP.Net MVC\Demos\CRUDMvcWithThreeTier-Demo\EMS\AppUI\bin\BLL.pdb
+D:\Corporate\Nordic Academy\ASP.Net MVC\Demos\CRUDMvcWithThreeTier-Demo\EMS\AppUI\bin\DAL.pdb
+D:\Corporate\Nordic Academy\ASP.Net MVC\Demos\CRUDMvcWithThreeTier-Demo\EMS\AppUI\bin\DAL.dll.config
+D:\Corporate\Nordic Academy\ASP.Net MVC\Demos\CRUDMvcWithThreeTier-Demo\EMS\AppUI\obj\Debug\AppUI.csproj.AssemblyReference.cache

@@ -1,8 +1,33 @@
-﻿
+﻿@model ICollection<DAL.EmpProfile>
 @{
     ViewBag.Title = "EmployeeList";
     
 }
 
-<h2>EmployeeList</h2>
+<h2>Employee Count:@ViewBag.count</h2>
+<div>
+    <table class="table table-hover">
+        <tr class="bg-primary">
+            <th>Code</th>
+            <th>Name</th>
+            <th>Date Of Birth</th>
+            <th>Email</th>
+            <th>Dept Code</th>
+        </tr>
+        @foreach(var emp in Model)
+            {
+                <tr class="bg-success">
+                    <td>@emp.EmpCode</td>
+                    <td>@emp.EmpName</td>
+                    <td>@emp.DateOfBirth</td>
+                    <td>@emp.Email</td>
+                    <td>@emp.DeptCode</td>
+                    <td>
 
+                        @Html.ActionLink("Delete", "DeleteEmployee", "Admin", new { id = emp.EmpCode }, new { Class = "btn btn-danger" })
+                        @Html.ActionLink("Edit", "UpdateEmployee", "Admin", new { id = emp.EmpCode }, new { Class = "btn btn-danger" })
+                    </td>
+                </tr>
+            }
+    </table>
+</div>

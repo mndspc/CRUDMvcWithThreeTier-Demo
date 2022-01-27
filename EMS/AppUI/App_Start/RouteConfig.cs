@@ -16,7 +16,7 @@ namespace AppUI
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Employee", action = "LeaveApplication", id = UrlParameter.Optional }
+                defaults: new { controller = "Common", action = "AdminLogin", id = UrlParameter.Optional }
             );
         }
     }

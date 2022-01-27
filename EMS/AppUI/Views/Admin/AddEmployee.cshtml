@@ -1,8 +1,36 @@
-﻿
+﻿@model DAL.EmpProfile
 @{
     ViewBag.Title = "AddEmployee";
-   
+
 }
 
-<h2>AddEmployee</h2>
+<h2>Add Employee</h2>
 
+<div class="row">
+    @using (Html.BeginForm("SaveEmployee", "Admin", FormMethod.Post))
+            {
+    <div class="col-md-6">
+        <div>
+            @Html.Label("Code:")
+            @Html.TextBoxFor(m => m.EmpCode, new { Class = "form-control" })
+        </div>
+        <div>
+            @Html.Label("Name:")
+            @Html.TextBoxFor(m => m.EmpName, new { Class = "form-control" })
+        </div>
+        <div>
+            @Html.Label("Name:")
+            @Html.TextBoxFor(m => m.DateOfBirth, new { Class = "form-control", type = "Date" })
+        </div>
+        <div>
+            @Html.Label("Name:")
+            @Html.TextBoxFor(m => m.Email, new { Class = "form-control" })
+        </div>
+        <div>
+            @Html.Label("Dept Code:")
+            @Html.TextBoxFor(m => m.DeptCode, new { Class = "form-control" })
+        </div>
+        <input type="submit" value="Add Employee" class="btn btn-success" />
+    </div>
+            }
+</div>

@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'D:\Corporate\Nordic Academy\EF\Demos\EFDBFirstDemo\EMS\DAL\EMSModel.edmx'. 
+﻿// T4 code generation is enabled for model 'D:\Corporate\Nordic Academy\ASP.Net MVC\Demos\CRUDMvcWithThreeTier-Demo\EMS\DAL\EMSModel.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
